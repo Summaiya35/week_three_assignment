@@ -1,5 +1,5 @@
 # React + Vite
-
+at first i pushed the my project folder with already done the changes of assignment task then when i tried to pull --> compare changes it shows both main and week_three_branches are identical . Therefore instead of adding new changes of assignment task I removed the already done changes from branch main and kept them same in branch week_three_assignment.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
